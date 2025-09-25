@@ -5,6 +5,8 @@ description: This syllabus section provides the course description and informati
   registration, class structure, missed sessions, make-up policies, and late policies,
   teaching assistants, recitation instructor, and lab supervisor, and a note on the
   use of animals.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

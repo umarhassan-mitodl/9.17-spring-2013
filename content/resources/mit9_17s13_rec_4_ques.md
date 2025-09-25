@@ -4,6 +4,8 @@ description: This resource contains information regarding recitation questions.
 file: /courses/9-17-systems-neuroscience-lab-spring-2013/6de2991770e650ac9c3d594d3db01d74_MIT9_17S13_rec_4_ques.pdf
 file_size: 42410
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

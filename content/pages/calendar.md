@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of weekly lecture topics, dry lab
   recitations, wet labs, and assignment due dates.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

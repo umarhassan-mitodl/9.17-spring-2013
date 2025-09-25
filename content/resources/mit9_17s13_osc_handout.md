@@ -4,6 +4,8 @@ description: This resource contains information regarding digital oscilloscope P
 file: /courses/9-17-systems-neuroscience-lab-spring-2013/8aea18e811e734a63fe68f68b71db803_MIT9_17S13_osc_handout.pdf
 file_size: 2465867
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

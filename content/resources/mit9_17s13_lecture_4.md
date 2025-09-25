@@ -4,6 +4,8 @@ description: This file contains information regarding cockroach sensory processi
 file: /courses/9-17-systems-neuroscience-lab-spring-2013/a4d374396e84a6f6a8df2001baedf3e2_MIT9_17S13_Lecture_4.pdf
 file_size: 665481
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
