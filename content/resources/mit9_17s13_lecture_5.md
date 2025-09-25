@@ -4,6 +4,8 @@ description: This file contains information regarding frog compound action poten
 file: /courses/9-17-systems-neuroscience-lab-spring-2013/83e80ab7cef50b363a338de531e18dd8_MIT9_17S13_Lecture_5.pdf
 file_size: 1118271
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

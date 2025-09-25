@@ -4,6 +4,8 @@ description: This file contains information regarding practical lecture part 2.
 file: /courses/9-17-systems-neuroscience-lab-spring-2013/244b073c3108c864b407350e0168326c_MIT9_17S13_Lecture2_part2.pdf
 file_size: 1335320
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
