@@ -4,8 +4,6 @@ description: This is special file regarding fly part.
 file: /courses/9-17-systems-neuroscience-lab-spring-2013/3f67ea45bd2be6b7fdf251c46b5273c7_fly_rubric.xlsx
 file_size: 12999
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

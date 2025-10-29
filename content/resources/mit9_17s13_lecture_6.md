@@ -5,8 +5,6 @@ description: 'This file contains information regarding rat barrel cortex: princi
 file: /courses/9-17-systems-neuroscience-lab-spring-2013/a9cdf7b0548aaaea181b7b316cc631b1_MIT9_17S13_Lecture_6.pdf
 file_size: 1250110
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

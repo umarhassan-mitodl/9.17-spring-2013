@@ -4,8 +4,6 @@ description: This is special file regarding project 2.
 file: /courses/9-17-systems-neuroscience-lab-spring-2013/3346b3a52f9da61da2dffe845360d1f6_Project_2.zip
 file_size: 44557
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

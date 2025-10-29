@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the schedule of weekly lecture topics, dry lab
   recitations, wet labs, and assignment due dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -462,4 +460,4 @@ Research report 2 due in lab
 
 {{< tableclose >}}
 
-"MATLAB and Simulink are registered trademarks of The MathWorks, Inc. See [www.mathworks.com/trademarks](http://www.mathworks.com/trademarks) for a list of additional trademarks. Other product or brand names may be trademarks or registered trademarks of their respective holders."
+"MATLAB and Simulink are registered trademarks of The MathWorks, Inc. See {{% resource_link "76f9367c-e722-4b5f-8933-1eed52a227d9" "www.mathworks.com/trademarks" %}} for a list of additional trademarks. Other product or brand names may be trademarks or registered trademarks of their respective holders."
